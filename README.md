@@ -14,7 +14,7 @@
 ##
 <body>
   <h1>
-    <p1 color:"red">
+    <p1  style="color: red">
       Женька ЛОХ
     </p1>
   </h1>
