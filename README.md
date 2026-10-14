@@ -17,4 +17,4 @@
 
 ## Наша интерактивная доска:
 
-[Ссылка на доску](https://gardenbugs.yougile.com)
+[Ссылка на интерактивную доску](https://gardenbugs.yougile.com/team/e4547c5356b1/%D0%9C%D0%B0%D1%80%D0%BA%D0%B5%D1%82-%D0%90%D0%B3%D1%80%D0%B5%D0%B3%D0%B0%D1%82%D0%BE%D1%80?lang=ru)
